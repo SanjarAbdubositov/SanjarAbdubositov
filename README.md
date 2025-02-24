@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjarAbdubositov
 - 👀 I’m interested in Programming, Pentesing, Hacking
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript
 
 <!---
 SanjarAbdubositov/SanjarAbdubositov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
